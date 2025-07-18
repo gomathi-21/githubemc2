@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hi this is git learn page
+=======
+Hi this is git learn Page
+Hiiiiii.....
+>>>>>>> b14db05728ff31fb0fee789398dd9b83c3df2c0f
+Hiiiiiiiiiiiiiiiii
